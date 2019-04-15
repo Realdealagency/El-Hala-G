@@ -67,15 +67,15 @@ var app = {
 
         var inAppBrowserbRef = cordova.InAppBrowser.open('https://electrostar.ovplatform.tk', '_self', 'location=no,toolbar=no');
 
-        inAppBrowserbRef = cordova.InAppBrowser.open('http://walaa.realdeal.com.eg/fashionapp-master/fashionapp/www/', '_self', 'location=no,toolbar=no,zoom=no');
+        inAppBrowserbRef = cordova.InAppBrowser.open('http://ramadan.ovplatform.tk/Mosalsallat/my_eposide/68', '_self', 'location=no,toolbar=no,zoom=no');
 
         //admob
      // Set AdMobAds options:
       admob.setOptions({
-        publisherId:           "ca-app-pub-7251676025279948/7407344163",  // Required
-        interstitialAdId:      "ca-app-pub-7251676025279948/2753783281",  // Optional
+        publisherId:           "ca-app-pub-7251676025279948/1312189581",  // Required
+        interstitialAdId:      "ca-app-pub-7251676025279948/1358213628",  // Optional
         autoShowBanner:        true,                                      // Optional
-        autoShowRInterstitial: false,                                     // Optional
+        autoShowRInterstitial: true,                                     // Optional
         autoShowRewarded:      false,                                     // Optional
         tappxIdiOS:            "/XXXXXXXXX/Pub-XXXX-iOS-IIII",            // Optional
         tappxIdAndroid:        "/XXXXXXXXX/Pub-XXXX-Android-AAAA",        // Optional
